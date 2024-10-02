@@ -1,0 +1,9 @@
+/* Home.module.css */
+.homeBackground {
+  background-image: url('/assets/picture.jpg');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  height: 100vh; /* Full viewport height */
+  width: 100%; /* Full width */
+}
